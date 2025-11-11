@@ -5,6 +5,9 @@ Previously, I worked for General Motors and Intel.
 
 Research Keywords: Localization, Mapping, Open World Navigation
 
+![Image with robots](photo_2025-11-11_16-46-46.jpg)
+
+
 # Publications
 First authors in bold:
 * **Ayush Agrawal**, **Joel Loo**, **Nicky Zimmerman**, David Hsu “Sign Language: Towards Sign Understanding for Robot Autonomy”, under review for IEEE International Conference on Robotics and Automation (ICRA) 2026
