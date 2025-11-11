@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
 title: Nicky Zimmerman
-description: Best coding hamster for her age group
+author:
+  name: Nicky Zimmerman
+  email: nicky.zi@nus.edu.sg
+description: "Best coding hamster for her age group"
+
+# Build settings
+#remote_theme: jekyll/minima
+theme: jekyll-theme-minimal
