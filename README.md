@@ -1,6 +1,3 @@
----
-layout: page
----
 
 # About
 I am currently a Postdoctoral Research Fellow in National University of Singapore working with Prof. [David Hsu](https://www.comp.nus.edu.sg/~dyhsu/). 
