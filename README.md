@@ -26,5 +26,7 @@ First authors in bold:
 
 # Professional Activities
 Workshop Organizer: IROS 2025
+
 Journal Reviewer: RAL, IoT-J
+
 Conference Reviewer: ICRA, IROS
