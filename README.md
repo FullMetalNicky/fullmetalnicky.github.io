@@ -6,7 +6,7 @@ Previously, I worked for General Motors and Intel.
 
 Research Keywords: Localization, Mapping, Open World Navigation
 
-![Image with robots](photo_2025-11-11_16-46-46.jpg)
+<!--![Image with robots](photo_2025-11-11_16-46-46.jpg) -->
 
 
 # Publications
